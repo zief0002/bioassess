@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hugo Cards</title>
-    <link>https://zief0002.github.io/categories/</link>
+    <link>https://zief0002.github.io/bioassess/categories/</link>
     <description>Recent content in Categories on Hugo Cards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Oct 2019 13:59:00 +0530</lastBuildDate>
     
-	<atom:link href="https://zief0002.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zief0002.github.io/bioassess/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Reasoning</title>
-      <link>https://zief0002.github.io/categories/reasoning/</link>
+      <link>https://zief0002.github.io/bioassess/categories/reasoning/</link>
       <pubDate>Fri, 18 Oct 2019 13:59:00 +0530</pubDate>
       
-      <guid>https://zief0002.github.io/categories/reasoning/</guid>
+      <guid>https://zief0002.github.io/bioassess/categories/reasoning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>two</title>
-      <link>https://zief0002.github.io/categories/two/</link>
+      <link>https://zief0002.github.io/bioassess/categories/two/</link>
       <pubDate>Sun, 12 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zief0002.github.io/categories/two/</guid>
+      <guid>https://zief0002.github.io/bioassess/categories/two/</guid>
       <description></description>
     </item>
     
     <item>
       <title>one</title>
-      <link>https://zief0002.github.io/categories/one/</link>
+      <link>https://zief0002.github.io/bioassess/categories/one/</link>
       <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://zief0002.github.io/categories/one/</guid>
+      <guid>https://zief0002.github.io/bioassess/categories/one/</guid>
       <description></description>
     </item>
     
