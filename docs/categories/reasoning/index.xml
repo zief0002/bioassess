@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reasoning on Hugo Cards</title>
-    <link>/categories/reasoning/</link>
+    <link>https://zief0002.github.io/categories/reasoning/</link>
     <description>Recent content in Reasoning on Hugo Cards</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Oct 2019 13:59:00 +0530</lastBuildDate>
     
-	<atom:link href="/categories/reasoning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zief0002.github.io/categories/reasoning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>BioSQuaRE</title>
-      <link>/posts/welcome-to-hugo/</link>
+      <link>https://zief0002.github.io/posts/welcome-to-hugo/</link>
       <pubDate>Fri, 18 Oct 2019 13:59:00 +0530</pubDate>
       
-      <guid>/posts/welcome-to-hugo/</guid>
+      <guid>https://zief0002.github.io/posts/welcome-to-hugo/</guid>
       <description>The Biological Science Quantitative Reasoning Exam (BioSQuaRE) assesses core quantitative skills identified in national reports (e.g.,Bio2010, Vision &amp;amp; Change, Scientific Foundations for Future Physicians, AP Bio Skills, Next Generation Science Standards) that students should possess after they have completed an introductory biology sequence
 
 Assessment Information  Website: https://www.macalester.edu/hhmi/biosquare/ Number of Items: 29 Item Format: Selected-response Time (Estimated): 30&amp;ndash;40 minutes Mode of Administration: Online (via Qualtrics)  
